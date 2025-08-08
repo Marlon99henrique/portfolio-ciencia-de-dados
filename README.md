@@ -1,8 +1,14 @@
 # Portfólio de Ciência de Dados — Marlon Henrique
 
-Este repositório reúne projetos práticos de **Python, análise de dados e machine learning**, com foco na aplicação de técnicas aprendidas nos cursos de:
-- [Python para Engenheiros e Cientistas](https://www.udemy.com/course/python-para-engenheiros-e-cientistas/)
-- [Cientista de Dados](https://www.udemy.com/course/cientista-de-dados/)
+Este repositório reúne projetos práticos de Python, análise de dados e machine learning, desenvolvidos para aplicar e demonstrar habilidades adquiridas na minha formação em Ciência de Dados (faculdade e cursos complementares).
+Os projetos utilizam bibliotecas como Pandas, Numpy, Matplotlib, Seaborn e Scikit-learn, com foco em problemas reais e soluções de fácil interpretação para empresas.
+
+Conteúdo baseado nos cursos:
+
+Python para Engenheiros e Cientistas
+
+Cientista de Dados
+e em atividades e conhecimentos adquiridos no 3º semestre da graduação em Ciência de Dados.
 
 ## Estrutura dos Projetos
 
