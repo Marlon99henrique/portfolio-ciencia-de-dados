@@ -1,6 +1,6 @@
 # Portfólio de Ciência de Dados — Marlon Henrique
 
-Este repositório reúne projetos práticos de Python, análise de dados e machine learning, desenvolvidos para aplicar e demonstrar habilidades adquiridas na minha formação em Ciência de Dados (faculdade e cursos complementares).
+Este repositório reúne projetos práticos de Python, anális. e de dados e machine learning, desenvolvidos para aplicar e demonstrar habilidades adquiridas na minha formação em Ciência de Dados (faculdade e cursos complementares).
 Os projetos utilizam bibliotecas como Pandas, Numpy, Matplotlib, Seaborn e Scikit-learn, com foco em problemas reais e soluções de fácil interpretação para empresas.
 
 Conteúdo baseado nos cursos:
